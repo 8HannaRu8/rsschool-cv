@@ -5,6 +5,12 @@
 telegram:@alorida
 e-mail:makrealin@gmail.com
 
+***
+_About me_:
+I'm a beginner Front End Engineer with passion to tech. I love coding, open source, and web platforms.
+Aside from my job, I like to create and contribute to open source projects. That helps me to learn a ton of new stuff, grow as a developer and support other open source projects.
+***
+
 ## Hard Skills
 HTML5, CSS3, JavaScript, ES6, Git, Github
 
